@@ -1,0 +1,34 @@
+f  3 ---- 6.2
+q  2 ------- 4.17
+j 7   ----14.58    
+c 3 ------ 6.2
+b 5 -----10.41
+r 1 ------ 2.08
+w 4 -------8.3
+
+v 3 ------- 6.2
+n 7 ---------14.58
+a 2 ---------4.17
+x 3 ------- 6.2
+k 1---------2.08
+h 2 --------4.17
+d 1 ---------2.08
+u 3 ---------6.2
+m 1 -------------2.08
+
+
+48
+
+
+fqjcb rwjwj vnjax bnkhj whxcq nawjv nfxdu mbvnu ujbbf nnc
+whats inana mearo sebya nyoth ernam ewoul dsmel lassw eet   //////offset 18
+whats in a name a rose by any other name would smell as sweet
+
+oczmz vmzor jocdi bnojv dhvod igdaz admno ojbzo rcvot jprvi oviyv aozmo cvooj ziejt dojig toczr dnzno jahvi fdiyv xcdzq zoczn zxjiy
+
+there aretw othin gstoa imati nlife first toget whaty ouwan tanda ftert hatto enjoy itonl ythew isest ofman kinda chiev ethes econd ///////////offset 6
+there are two things to aim at in life first to get what you want and after that to enjoy it only the wisest of mankind achieve the second
+
+
+generalFreqList = [8.2,1.5,2.8,4.3,12.7,2.2,2, 6.1, 7, .2, .8,  4, 2.4,6.7,7.5,1.9, .1, 6,6.3,9.1,2.8,1.0,2.4,.2,2,.1]                                                                         
+                                                                      # list of percentages depicting the general frequency
